@@ -72,7 +72,7 @@ footer a {
     width: 100%;
     text-align: center;
   }
-}
+
 @media (max-width: 768px) {
 
   .card a {
@@ -90,4 +90,4 @@ footer a {
     background: #1abc9c;
   }
 
-}
+
